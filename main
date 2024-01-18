@@ -1,0 +1,17 @@
+Macro launches a UI element
+Drop down to select a spell effect
+  // https://github.com/Kekilla0/Personal-Macros/tree/master/00%20Core%20Macros/Dialog Can use this as a template/resource
+  Ability to add/remove an effect from the UI element
+    Should be able to edit from the menu also, though just removing and adding new may be easier to manage?
+  Hooks insto Active effects to add the effect to the selected actor(s), if applicable.
+    Mage armor should add the armor bonus etc
+    // Can use https://github.com/Kekilla0/Personal-Macros/blob/master/00%20Core%20Macros/Active%20Effects/Toggle%20Effect.js as a template/reference
+  In put the Initiative of the effect
+    Potentially default to the current initiative of the selected actor
+  Input the number of rounds of the effect
+    Will need to determine if it's rounds or longer to setup the active effect properly
+Once status is selected, output to chat card
+
+
+
+// Another good resource for references https://github.com/VanceCole/macros/tree/master
